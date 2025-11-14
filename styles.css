@@ -42,6 +42,7 @@ h3{
 p{
     max-width: 65ch;
     margin: 1rem auto;
+    text-align: left;
 }
 
 code{
